@@ -27,5 +27,5 @@ hi
 
 # ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzinyy&show_icons=true&theme=radical)
 
-# email
+# 📧 email
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kld19238@gmail.com)](kld19238@gmail.com)
