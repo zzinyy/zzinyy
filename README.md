@@ -21,3 +21,6 @@ hi
 ### APP
 
 #### WEB
+
+🛠️ Stacks
+<img alt="react" src="http://img.shields.io/badge/react-E34F26.svg?style=flat-wquare&logo=react&logoColor=white"/>
