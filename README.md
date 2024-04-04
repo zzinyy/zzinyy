@@ -4,7 +4,7 @@
 # Introduction
 Hi! This is Jinyoung Park’s GitHub.
 
-# Career
+# 👩‍🎓 Career
 4th year student at Yeungnam University, Department of Computer Engineering
 
 # 🛠️ Stacks
