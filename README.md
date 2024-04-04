@@ -1,23 +1,11 @@
 ### Hi there 👋
 
-<!--
-**zzinyy/zzinyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Introduction
+Hi! This is Jinyoung Park’s GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Introduction
-hi
-
+# Career
+4th year student at Yeungnam University, Department of Computer Engineering
 
 # 🛠️ Stacks
 <img alt="react" src="http://img.shields.io/badge/react-61DAFB.svg?style=flat-wquare&logo=react&logoColor=white"/> <img alt="python" src="http://img.shields.io/badge/python-3776AB.svg?style=flat-wquare&logo=python&logoColor=white"/> <img alt="c" src="http://img.shields.io/badge/c-A8B9CC.svg?style=flat-wquare&logo=c&logoColor=white"/> <img alt="c++" src="http://img.shields.io/badge/c++-00599C.svg?style=flat-wquare&logo=c++&logoColor=white"/>
