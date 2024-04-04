@@ -24,4 +24,4 @@ hi
 
 🛠️ Stacks
 
-<img alt="react" src="http://img.shields.io/badge/react-#61DAFB.svg?style=flat-wquare&logo=react&logoColor=white"/>
+<img alt="react" src="http://img.shields.io/badge/react-61DAFB.svg?style=flat-wquare&logo=react&logoColor=white"/>
