@@ -25,5 +25,6 @@ hi
 # 💪🏼 Tools
 <img alt="visualstudiocode" src="http://img.shields.io/badge/visualstudiocode-007ACC.svg?style=flat-wquare&logo=visualstudiocode&logoColor=white"/> <img alt="github" src="http://img.shields.io/badge/github-181717.svg?style=flat-wquare&logo=github&logoColor=white"/> <img alt="eclipseide" src="http://img.shields.io/badge/eclipseide-2C2255.svg?style=flat-wquare&logo=eclipseide&logoColor=white"/> <img alt="anaconda" src="http://img.shields.io/badge/anaconda-44A833.svg?style=flat-wquare&logo=anaconda&logoColor=white"/>
 
-# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzinyy&show_icons=true&theme=radical) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeyuna97&show_icons=true&theme=radical)
+# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzinyy&show_icons=true&theme=radical)
 
+# [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kld19238@naver.com)](kld19238@naver.com)
