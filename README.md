@@ -26,7 +26,7 @@ hi
 <img alt="react" src="http://img.shields.io/badge/react-61DAFB.svg?style=flat-wquare&logo=react&logoColor=white"/>
 <img alt="python" src="http://img.shields.io/badge/python-3776AB.svg?style=flat-wquare&logo=python&logoColor=white"/>
 <img alt="c" src="http://img.shields.io/badge/c-A8B9CC.svg?style=flat-wquare&logo=c&logoColor=white"/>
-<img alt="cplusplus" src="http://img.shields.io/badge/cplusplus-00599C.svg?style=flat-wquare&logo=cplusplus&logoColor=white"/>
+<img alt="c++" src="http://img.shields.io/badge/c++-00599C.svg?style=flat-wquare&logo=c++&logoColor=white"/>
 
 💪🏼 Tools
 <img alt="visualstudiocode" src="http://img.shields.io/badge/visualstudiocode-007ACC.svg?style=flat-wquare&logo=visualstudiocode&logoColor=white"/>
